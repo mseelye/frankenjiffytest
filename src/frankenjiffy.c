@@ -1,5 +1,5 @@
 /*
- *  FranekJiffy - Used to test Rogue JiffyDOS kernals
+ *  FrankenJiffyTest - Used to test Rogue JiffyDOS kernals
  *  (C) 2020 - Mark Seelye / mseelye@yahoo.com
  *  Version 0.1
  *
