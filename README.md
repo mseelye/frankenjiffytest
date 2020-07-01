@@ -5,7 +5,7 @@ ScottFree64 had some bug reports that the ystem would fail while loading the dat
 
 I'm providing this test program to allow someone to fix their franekn jiffy dos patches if they want their stuff to work with cc65 executables.  Currently the one jiffdos patch knowmn to cause an issue fails usually before it gets to the 11th line of numbers.
 
-To build:  
+To build (with cc65!):  
 `make`
 
 To run:  
